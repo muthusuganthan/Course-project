@@ -10,7 +10,7 @@ coursegetbyidschema = z.object({
 });
 
   coursedeletebyidschema = z.object({
-    course_id: z.string(),
+  course_id: z.string(),
  });
 
 
